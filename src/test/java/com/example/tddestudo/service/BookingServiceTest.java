@@ -50,8 +50,4 @@ public class BookingServiceTest {
 
         Assert.assertEquals(days, 10);
     }
-
-
-
-
 }

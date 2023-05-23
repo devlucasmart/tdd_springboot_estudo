@@ -7,6 +7,8 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 import lombok.ToString;
 
+import javax.persistence.Entity;
+import javax.persistence.Id;
 import java.time.LocalDate;
 
 @Setter
@@ -15,7 +17,10 @@ import java.time.LocalDate;
 @NoArgsConstructor
 @ToString
 @EqualsAndHashCode
+@Entity
 public class BookingModel {
+
+    @Id
     private String id;
     private String reserveName;
     private LocalDate checkIn;
