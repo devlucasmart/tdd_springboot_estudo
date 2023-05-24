@@ -1,2 +1,4 @@
+/home/lucas/GIT/tdd_springboot_estudo/src/test/java/com/example/tddestudo/controller/BookingControllerTest.java
 /home/lucas/GIT/tdd_springboot_estudo/src/test/java/com/example/tddestudo/TddEstudoApplicationTests.java
+/home/lucas/GIT/tdd_springboot_estudo/src/test/java/com/example/tddestudo/controller/FilmeControllerTest.java
 /home/lucas/GIT/tdd_springboot_estudo/src/test/java/com/example/tddestudo/service/BookingServiceTest.java

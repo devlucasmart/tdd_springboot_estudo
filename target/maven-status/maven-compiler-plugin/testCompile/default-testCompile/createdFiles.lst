@@ -1,3 +1,5 @@
 com/example/tddestudo/TddEstudoApplicationTests.class
 com/example/tddestudo/service/BookingServiceTest.class
+com/example/tddestudo/controller/BookingControllerTest.class
 com/example/tddestudo/service/BookingServiceTest$BookingServiceTestConfiguration.class
+com/example/tddestudo/controller/FilmeControllerTest.class
